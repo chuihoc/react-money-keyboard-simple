@@ -19,6 +19,33 @@
     "dev": "tsup --watch",
     "prepublishOnly": "npm run build"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chuihoc/react-money-keyboard-simple"
+  },
+  "author": "Chuihoc (https://github.com/chuihoc)",
+  "bugs": {
+    "url": "https://github.com/chuihoc/react-money-keyboard-simple/issues"
+  },
+  "homepage": "https://www.npmjs.com/package/react-money-keyboard-simple",
+  "keywords": [
+    "react",
+    "reactjs",
+    "digital",
+    "keyboard",
+    "onscreen",
+    "virtual",
+    "component",
+    "screen-keyboard",
+    "component",
+    "virtual-keyboard",
+    "touchscreen",
+    "touch-screen",
+    "kiosk",
+    "osk",
+    "js"
+  ],
+  "license": "MIT",
   "peerDependencies": {
     "react": ">=17",
     "react-dom": ">=17"
